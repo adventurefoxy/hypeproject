@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #DFD2E2;
+    font-family: Trebuchet, Helvetica, sans-serif;
+}
+
+#tpbar {
+    background: #660099;
+    height: 40px;
+    boder-bottom: 1px solid #808080;
+}
+
+#loginscr {
+    float: right;
+    padding: 10px;
+}
+
+.blue {
+    color: #e6b3ff;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+#telalogin {
+    border-radius: 10px;
+    margin: 30px auto;
+    padding: 10px;
+    width: 980px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #808080;
+}
+
+.postagem {
+    border-radius: 10px;
+    margin: 30px auto;
+    padding: 10px;
+    width: 720px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #808080;
+}
+
+#navigation {
+    width: 720px;
+    margin: 0 auto;
+}
+
+#headertitle {
+    float: left;
+}
+
+#link-menu {
+    padding: 10px;
+    float: right;
+}
+
+.datapost {
+    font-size: 14px;
+    border-bottom: 1px solid #cccccc;
+    display: block;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.imagempost {
+    background: red;
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin: 5px 10px 5px 5px;
+}
+
+.autorpost {
+    border-left: 5px solid #9900e6;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:link {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: #FFFFFF;
+    background: #e6b3ff;
+}
+
+a:active {
+    color: #004d80;
+}
